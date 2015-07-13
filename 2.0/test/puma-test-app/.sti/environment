@@ -1,3 +1,3 @@
 NO_PROXY=".secureworks.net,.secureworks.com,.secureworkslab.com,.secureworkslab.net,.google.internal,172.30.26.254"
-HTTP_PROXY="http://squid.internal.secureworks.net:3128"
-HTTPS_PROXY="http://squid.internal.secureworks.net:3128"
+HTTP_PROXY=squid.internal.secureworks.net:3128
+HTTPS_PROXY=squid.internal.secureworks.net:3128
